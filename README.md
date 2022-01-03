@@ -1,16 +1,35 @@
-### Hi there 👋
+### Bem vindx! Sou a Patrícia Ament
+##
 
-<!--
-**patriciaament/patriciaament** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabalho com análise de sistemas
+- ⚡ Estudo Pyhton e SQL
+- 🎈 Especialista em BI
 
-Here are some ideas to get you started:
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciaament&show_icons=true&theme=aura_dark&inlcude_all_commits=true&count_private=true"/>
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciaament&layout=compact&langs_count=16&theme=aura_dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+
+##
+  
+<div>
+  <a href="mailto:pati.vament@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://br.linkedin.com/patricia-viana-ament" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </div>  
+
+##
+    
+![Snake animation]("https://github.com/patriciaament/patriciaament/blob/github-contribution-grid-snake.svg)
+  
+ 
