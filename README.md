@@ -2,7 +2,7 @@
 ##
 
 - 🔭 Trabalho com análise de sistemas
-- ⚡ Estudo Pyhton e SQL
+- ⚡ Estudo Python e SQL
 - 🎈 Especialista em BI
 
 <div align="center">
