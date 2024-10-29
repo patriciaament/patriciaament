@@ -1,13 +1,15 @@
 <h1 align="left">Hi🖖, I'm Patricia Ament</h1>
 <br>
 
-- 🔥 Systems Engineer with more two years experience
+- 🔥 Systems Engineer with more three years experience
 
 - 👩‍💻 I’m currently working at [Minsait](https://www.minsait.com/)
   
 - ⚡ Especialist in BI and Analytics
   
-- 🔭 I'm currently studing for AWS certification
+- ☁️ 3x AWS Certified
+  
+- 🔭 I'm currently studing IA and ML
   
 - 💭 Ask me about **SQL, Python, JavaScript, ReactJS, NodeJS**
 
